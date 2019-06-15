@@ -1,0 +1,33 @@
+body{
+    background: url("../images/bgGym.jpg")no-repeat center center fixed; background-size: cover;
+    font-family: 'Oswald', sans-serif;
+}
+
+div{
+    background-color: lightblue;
+    width: 45%;
+    margin: 100px auto;
+    text-align: center;
+    border-radius: 25px;
+}
+
+button{
+    background: orange;
+    padding: 20px;
+    color: white;
+    font-size: 2em;
+    border-radius: 10px;
+}
+
+h1{
+    font-size: 4 em;
+}
+
+p{
+    font-size: 1.8 em;
+}
+
+i{
+    font-size: 4 em;
+    color: green;
+}
